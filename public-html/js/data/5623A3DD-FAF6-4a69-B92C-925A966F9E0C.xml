@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.3.2.2:1", "", "Bedrock Interpretation", "EARoot/EA3/EA2/EA2/EA189.htm", "175.png", "27", "0", "", "Logical diagram0","{C46E4D2C-B85B-46ce-A826-00D357CF4923}");
+tocTab[tocTab.length] = new Array("0.3.2.2:2", "", "Alternate Standard", "EARoot/EA3/EA2/EA2/EA193.htm", "5.png", "E204", "0", "", "Class0","{324BC2F2-8A47-4410-8A9F-62D39181692B}");
+tocTab[tocTab.length] = new Array("0.3.2.2:3", "", "Ash / Tuff", "EARoot/EA3/EA2/EA2/EA194.htm", "5.png", "E210", "0", "", "Class0","{0ACAB523-C682-4739-A7CD-118C0726C749}");
+tocTab[tocTab.length] = new Array("0.3.2.2:4", "", "Basalt", "EARoot/EA3/EA2/EA2/EA195.htm", "5.png", "E211", "0", "", "Class0","{BF1FCD6B-A7E9-4d6c-89C0-B47B92D0DA4E}");
+tocTab[tocTab.length] = new Array("0.3.2.2:5", "", "BC Standard", "EARoot/EA3/EA2/EA2/EA196.htm", "5.png", "E203", "0", "", "Class0","{25D13399-DACB-4c76-BA45-0094E30FF690}");
+tocTab[tocTab.length] = new Array("0.3.2.2:6", "", "Granite", "EARoot/EA3/EA2/EA2/EA197.htm", "5.png", "E209", "0", "", "Class0","{AED3796A-76F4-456c-A08B-C99E72854C58}");
+tocTab[tocTab.length] = new Array("0.3.2.2:7", "", "Limestone", "EARoot/EA3/EA2/EA2/EA198.htm", "5.png", "E208", "0", "", "Class0","{097D6E7F-F07E-403e-9DA3-9B4F8AAB8A13}");
+tocTab[tocTab.length] = new Array("0.3.2.2:8", "", "Metamorphic Rocks", "EARoot/EA3/EA2/EA2/EA199.htm", "5.png", "E213", "0", "", "Class0","{FC7F879E-C3C1-49d4-944D-D61024698AC7}");
+tocTab[tocTab.length] = new Array("0.3.2.2:9", "", "Other Intrusive Rocks", "EARoot/EA3/EA2/EA2/EA200.htm", "5.png", "E214", "0", "", "Class0","{D170EA62-A271-4114-AF5D-25297BFD4F56}");
+tocTab[tocTab.length] = new Array("0.3.2.2:10", "", "Other Sedimentary rocks", "EARoot/EA3/EA2/EA2/EA201.htm", "5.png", "E215", "0", "", "Class0","{1A069B84-8C6E-476e-8806-AC8C9C27519F}");
+tocTab[tocTab.length] = new Array("0.3.2.2:11", "", "Other Volcanic rocks", "EARoot/EA3/EA2/EA2/EA202.htm", "5.png", "E212", "0", "", "Class0","{A2E43BBB-01ED-4393-BB5C-FE2FD75F207A}");
+tocTab[tocTab.length] = new Array("0.3.2.2:12", "", "Sandstone", "EARoot/EA3/EA2/EA2/EA203.htm", "5.png", "E207", "0", "", "Class0","{D1E9A1AB-D30C-4055-9027-ADFF20E1C0A7}");
+tocTab[tocTab.length] = new Array("0.3.2.2:13", "", "Shale", "EARoot/EA3/EA2/EA2/EA204.htm", "5.png", "E206", "0", "", "Class0","{07B36658-19EB-48a0-8BD1-6E75D385D2A5}");

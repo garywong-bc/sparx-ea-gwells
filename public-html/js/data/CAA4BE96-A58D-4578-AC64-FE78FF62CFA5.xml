@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.4:1", "", "Activity Submission States", "EARoot/EA2/EA4/EA96.htm", "183.png", "40", "0", "", "Statechart diagram0","{77679C01-30DB-4edf-A9DF-A934125827F8}");
-tocTab[tocTab.length] = new Array("0.2.4:2", "", "Accepted", "EARoot/EA2/EA4/EA100.htm", "20.png", "E306", "0", "", "State0","{87121C88-A1E9-450a-B3AA-AB9B44820B85}");
-tocTab[tocTab.length] = new Array("0.2.4:3", "", "Final", "EARoot/EA2/EA4/EA101.htm", "69.png", "E301", "0", "", "StateNode0","{2BB50DE3-1830-4ebb-B4EC-C6D3789C4A5E}");
-tocTab[tocTab.length] = new Array("0.2.4:4", "", "Initial", "EARoot/EA2/EA4/EA102.htm", "68.png", "E300", "0", "", "StateNode0","{E0197CEF-71EC-427f-8FDF-437EE114FCEB}");
-tocTab[tocTab.length] = new Array("0.2.4:5", "", "Pending Review", "EARoot/EA2/EA4/EA103.htm", "20.png", "E304", "0", "", "State0","{3E06769B-C555-4d26-8613-FC02630593E8}");
-tocTab[tocTab.length] = new Array("0.2.4:6", "", "Rejected", "EARoot/EA2/EA4/EA104.htm", "20.png", "E307", "0", "", "State0","{DA08CDC3-25C5-4485-AA00-9F7D286A8D94}");
-tocTab[tocTab.length] = new Array("0.2.4:7", "", "Under Review", "EARoot/EA2/EA4/EA105.htm", "20.png", "E305", "0", "", "State0","{22BC298D-A8B3-43a1-B83E-5AE6FD7CB5CB}");

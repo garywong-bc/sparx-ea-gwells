@@ -1,5 +1,5 @@
 
-# Creating a basic S2I builder image  
+# Creating GWELLS Sparx EA model S2I builder image  
 
 ## Getting started  
 
@@ -13,6 +13,7 @@
 | s2i/bin/save-artifacts | No        | Script for incremental builds that saves the built artifacts |
 | test/run               | No        | Test script for the builder image                            |
 | test/test-app          | Yes       | Test application source code                                 |
+| gwells/                | Yes       | Generated HTML artifacts, from desktop Sparx EA Tool         |
 
 #### Dockerfile
 Create a *Dockerfile* that installs all of the necessary tools and libraries that are needed to build and run our application.  This file will also handle copying the s2i scripts into the created image.
